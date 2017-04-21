@@ -1,0 +1,12 @@
+bosdy{
+  background: black;
+}
+.cancha{
+  background: green;
+  border-color:white;
+}
+#cuadroG{
+  width:400px;
+  height: 200px;
+  margin:50px;
+}
